@@ -1,8 +1,9 @@
 {
   "events": [
     {
-      "id": 1,
-      "status": "success"
+      "name": "Event 1",
+      "email": "event1@example.com",
+      "message": "This is the message for Event 1"
     }
   ]
 }
