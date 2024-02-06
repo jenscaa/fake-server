@@ -1,6 +1,7 @@
 {
   "events": [
     {
+      "id": 1,
       "nameInput": "Event 1",
       "emailInput": "event1@example.com",
       "messageInput": "This is the message for Event 1"
