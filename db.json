@@ -1,9 +1,9 @@
 {
   "events": [
     {
-      "name": "Event 1",
-      "email": "event1@example.com",
-      "message": "This is the message for Event 1"
+      "nameInput": "Event 1",
+      "emailInput": "event1@example.com",
+      "messageInput": "This is the message for Event 1"
     }
   ]
 }
